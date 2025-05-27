@@ -113,5 +113,6 @@ This section outlines the key steps taken during the creation of this dashboard 
 
 ## Deliverables for this Task
 
- <a href="TASK 2 DATA ANALYST .pdf">Task file</a>: The original task file given by Elevate Labs.
- <a href="Dashboard Superstore.pdf">Dashboard Visuals</a>: The PDF file containing the visuals. 
+ * <a href="TASK 2 DATA ANALYST .pdf">Task file</a>: The original task file given by Elevate Labs.
+   
+ * <a href="Dashboard Superstore.pdf">Dashboard Visuals</a>: The PDF file containing the visuals. 
