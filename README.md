@@ -10,7 +10,7 @@ The primary objective of this task was to create compelling data visualizations 
 ## Tools Used
 
 * **Tableau** (for data visualization and dashboard creation)
-* **Superstore Sales Data:**  <a href="">Superstore Sales Data</a>
+* **Dataset:**  <a href="Sample - Superstore_2024(1).xlsx">Superstore Sales Data</a>
 
 ## Dashboard Overview
 
@@ -110,3 +110,8 @@ This section outlines the key steps taken during the creation of this dashboard 
 5.  **Dashboard Design Principles:**
     * Focused on clarity and avoiding clutter to ensure the dashboard is easy to understand.
     * Ensured that the visuals collectively tell a compelling story about the Superstore's performance.
+
+## Deliverables for this Task
+
+ <a href="TASK 2 DATA ANALYST .pdf">Task file</a>: The original task file given by Elevate Labs.
+ <a href="Dashboard Superstore.pdf">Dashboard Visuals</a>: The PDF file containing the visuals. 
